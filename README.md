@@ -1,2 +1,2 @@
 # nodejstestrepo
-It is testing to upload app on gi
+It is testing to upload app on git
